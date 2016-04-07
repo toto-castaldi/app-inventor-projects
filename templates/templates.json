@@ -2,10 +2,20 @@
   {
     "name":"Electronicdrums",
     "subtitle":"An Awesome Drums App with Rhythm",
-    "description":"First Tutorial app : 'Components', 'Properties', 'Events'",
+    "description":"First tutorial app : 'Components', 'Properties', 'Events'",
     "link":"http://www.mastercoder.com/",
     "thumbnail":"thumbnail.png",
     "screenshot":"screenshot.png",
     "zip":"Electronicdrums.aia"
+  }
+  ,
+  {
+    "name":"TapTheMole",
+    "subtitle":"How many times you can catch the Mole in 15 seconds ?!",
+    "description":"Second tutorial app : 'global variables', 'procedures', 'local storage', 'timers', 'canvas and sprites', 'multiscreens'",
+    "link":"http://www.mastercoder.com/",
+    "thumbnail":"thumbnail.jpg",
+    "screenshot":"screenshot.png",
+    "zip":"TapTheMole.aia"
   }
 ]
