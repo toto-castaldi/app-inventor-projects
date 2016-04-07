@@ -18,4 +18,14 @@
     "screenshot":"screenshot.png",
     "zip":"TapTheMole.aia"
   }
+  ,
+  {
+    "name":"ClientServerString",
+    "subtitle":"Some useful operation on Strings made on a remote HTTP REST server",
+    "description":"Third tutorial app : connection component to make a HTTP PUT and handle the result",
+    "link":"http://www.mastercoder.com/",
+    "thumbnail":"thumbnail.png",
+    "screenshot":"screenshot.png",
+    "zip":"ClientServerString.aia"
+  }
 ]
