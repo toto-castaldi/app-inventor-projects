@@ -1,11 +1,11 @@
 [
   {
-    "name":"Electronc_drums",
+    "name":"Electronicdrums",
     "subtitle":"An Awesome Drums App with Rhythm",
     "description":"First Tutorial app : 'Components', 'Properties', 'Events'",
     "link":"http://www.mastercoder.com/",
     "thumbnail":"thumbnail.png",
     "screenshot":"screenshot.png",
-    "zip":"Electronc_drums.aia"
+    "zip":"Electronicdrums.aia"
   }
 ]
