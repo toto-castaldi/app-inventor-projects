@@ -42,10 +42,20 @@
   {
     "name":"EnaipGiacintiWip20160404",
     "subtitle":"Enaip Giacinti Master Coder WorkInProgress (Modulo 2)",
-    "description":"",
+    "description":"Project at the end of lesson of 2016/04/04 provided by Toto",
     "link":"",
     "thumbnail":"",
     "screenshot":"",
     "zip":"EnaipGiacintiWip20160404.aia"
+  }
+  ,
+  {
+    "name":"EnaipGiacintiWip20160407",
+    "subtitle":"Enaip Giacinti Master Coder WorkInProgress (Modulo 2)",
+    "description":"Project at the end of lesson of 2016/04/07 provided by Angelo",
+    "link":"",
+    "thumbnail":"",
+    "screenshot":"",
+    "zip":"EnaipGiacintiWip20160407.aia"
   }
 ]
