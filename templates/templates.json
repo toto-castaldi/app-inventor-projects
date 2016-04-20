@@ -30,6 +30,16 @@
   }
   ,
   {
+    "name":"TapTheMoleOnlineSimple",
+    "subtitle":"Tap The Mole app with SIMPLE online RANKING",
+    "description":"Fourth tutorial app : type list and a simple REST call",
+    "link":"http://www.mastercoder.com/",
+    "thumbnail":"thumbnail.png",
+    "screenshot":"screenshot.png",
+    "zip":"TapTheMoleOnlineSimple.aia"
+  }
+  ,
+  {
     "name":"TapTheMoleOnline",
     "subtitle":"Tap The Mole app with online RANKING",
     "description":"Fourth tutorial app : type list and advanced REST flow",
